@@ -1,4 +1,4 @@
-package hello;
+package microservice;
 
 public class Greeter {
     public String sayHello() {

@@ -1,4 +1,4 @@
-package hello;
+package microservice;
 
 import org.joda.time.LocalTime;
 

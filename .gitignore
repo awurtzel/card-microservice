@@ -2,3 +2,16 @@
 /src/target/gs-maven-0.1.0-shaded.jar
 /src/target/maven-archiver/pom.properties
 /src/target/original-gs-maven-0.1.0.jar
+/src/target/original-card-microservice-0.1.0.jar
+/src/target/card-microservice-0.1.0.jar
+/src/target/card-microservice-0.1.0-shaded.jar
+/src/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/src/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/src/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/src/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/src/target/classes/microservice/Greeter.class
+/src/target/classes/microservice/HelloWorld.class
+/src/target/test-classes/microservice/GreeterTest.class
+/src/target/surefire-reports/microservice.GreeterTest.txt
+/src/target/surefire-reports/TEST-microservice.GreeterTest.xml
+/.idea/artifacts/card_microservice_ear_exploded.xml
