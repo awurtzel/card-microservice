@@ -1,0 +1,3 @@
+microservice\Application.class
+microservice\beans\Card.class
+microservice\controllers\CardController.class
