@@ -1,19 +1,47 @@
 package microservice.beans;
 
 public class Card {
-    private final long id;
-    private final String content;
+    private long id;
+    private String name;
+    private String type;
+    private String faction;
 
-    public Card(long id, String content) {
+    public Card(int id, String name, String type, String faction) {
         this.id = id;
-        this.content = content;
+        this.name = name;
+        this.type = type;
+        this.faction = faction;
     }
 
     public long getId() {
         return id;
     }
 
-    public String getContent() {
-        return content;
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getFaction() {
+        return faction;
+    }
+
+    public void setFaction(String faction) {
+        this.faction = faction;
     }
 }
